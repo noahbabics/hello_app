@@ -9,6 +9,8 @@ Things you may want to cover:
 
 * System dependencies
 
+* test hello_app
+
 * Configuration
 
 * Database creation
